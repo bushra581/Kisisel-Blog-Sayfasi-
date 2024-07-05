@@ -1,4 +1,4 @@
-MP# Hoşgeldiniz!
+# Hoşgeldiniz!
 
 Merhaba! Ben Büşra. Yazılım mühendisi olma yolculuğuma eşlik ettiğiniz için teşekkür ederim.Burada öğrenme sürecimi,projelerimi ve ilgi alanlarını paylaşacağım.
 
@@ -66,17 +66,3 @@ Klonladığınız proje dizinine gidin:
      ```bash
      mvn spring-boot:run
      ```
-
-
-
-
-```bash
-# Depoyu klonlayın
-git clone https://github.com/kullanıcı_adı/depo_adı.git
-
-# Gerekli paketleri yükleyin
-cd depo_adı
-pip install -r requirements.txt
-
-# Uygulamayı başlatın
-python app.py
