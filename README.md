@@ -3,6 +3,7 @@
 Merhaba! Ben Büşra. Yazılım mühendisi olma yolculuğuma eşlik ettiğiniz için teşekkür ederim.Burada öğrenme sürecimi,projelerimi ve ilgi alanlarını paylaşacağım.
 
 ##Hakkımda 
+
 -**Ad:** Büşra 
 -**İlgi Alanları: Yazılım Mühendisliği Java, Web Geliştirme,Açık Kaynak 
 -**Eğitim:** Yiyecek ve İçecek hizmetleri Mezunu, Java Dilinde çalışıyorum.
