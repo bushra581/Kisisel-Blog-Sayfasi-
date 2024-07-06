@@ -2,21 +2,21 @@
 
 Merhaba! Ben Büşra. Yazılım mühendisi olma yolculuğuma eşlik ettiğiniz için teşekkür ederim.Burada öğrenme sürecimi,projelerimi ve ilgi alanlarını paylaşacağım.
 
-##Hakkımda 
+## **Hakkımda**
 
 -**Ad:** Büşra 
--**İlgi Alanları: Yazılım Mühendisliği Java, Web Geliştirme,Açık Kaynak 
+-**İlgi Alanları:** Yazılım Mühendisliği Java, Web Geliştirme,Açık Kaynak 
 -**Eğitim:** Yiyecek ve İçecek hizmetleri Mezunu, Java Dilinde çalışıyorum.
 -**Hedeflerim:** Yazılım Mühendisli olarak kendimi geliştirmek ve başarılı projeler. üretmek 
 
 ## Blog Yazıları
 
-###1. İlk Adımlarım
-**Tarih:**01 Temmuz 2024
+## **1.İlk Adımlarım**
+**Tarih:** 01 Temmuz 2024
 
 Yazılım mühendisliği serüvenime Java dili le başladım.İlk başta zor gelse de,her gün biraz daha ilerlediğimi hissediyorum. Java dilinin temellerini öğrendim ve küçük projelere başladım.
 
-### 2. GitHub ile Tanışma
+## 2. GitHub ile Tanışma
 **Tarih:** 10 Temmuz 2024
 
 Bugün GitHub'da kişisel bir blog oluşturmayı öğrendim. GitHub, projelerimi saklamak ve paylaşmak için mükemmel bir platform. Ayrıca burada açıkkaynak projelere katkıda bulunmayı planlıyorum.
