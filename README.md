@@ -56,13 +56,13 @@ Klonladığınız proje dizinine gidin:
      cd kişisel-blog
      ```
 
-4. **Bağımlılıkları Yükleme**:
+4. **Bağımlılıkları Yükleme:** 
    - Maven kullanarak projenin tüm bağımlılıklarını yükleyin:
      ```bash
      mvn install
      ```
 
-5. **Projeyi Çalıştırma**:
+5. **Projeyi Çalıştırma:**
    - Maven kullanarak projeyi çalıştırın:
      ```bash
      mvn spring-boot:run
