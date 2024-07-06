@@ -49,11 +49,11 @@ Geliştirme Ortamı (IDE) olarak IntelliJ IDEA veya Eclipse kullanmanızı öner
 3. **Proje Deposu Klonlama**:
    - Git kullanarak projeyi yerel makinenize klonlayın:
      ```bash
-     git clone https://github.com/kullaniciadi/proje-adi.git
+     git clone https://github.com/kullaniciadi/kişisel-blog.git
 
 Klonladığınız proje dizinine gidin:
      ```bash
-     cd proje-adi
+     cd kişisel-blog
      ```
 
 4. **Bağımlılıkları Yükleme**:
