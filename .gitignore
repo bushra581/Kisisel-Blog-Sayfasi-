@@ -1,18 +1,39 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Java derleme dosyaları
+*.class
 
-# Other files and folders
-.settings/
+# IDE ve yapılandırma dosyaları
+*.iml
+*.idea/
+*.project
+*.classpath
+/.settings/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Maven bağımlılıkları
+target/
+!.mvn/wrapper/mvnw
+!.mvn/wrapper/mvnw.cmd
+.mvn/wrapper/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Gradle bağımlılıkları
+.gradle/
+build/
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Çalışma dosyaları
+*.tmp
+*.swp
+*.swo
+*.lock
+
+# Konfigürasyon dosyaları (gizli bilgiler içerebileceğinden)
+*.properties
+*.xml
+*.yml
+*.yaml
+
