@@ -1,27 +1,27 @@
 # Hoşgeldiniz!
 
-Merhaba! Ben Büşra. Yazılım mühendisi olma yolculuğuma eşlik ettiğiniz için teşekkür ederim.Burada öğrenme sürecimi,projelerimi ve ilgi alanlarını paylaşacağım.
+Merhaba! Ben Büşra. Yazılım mühendisi olma yolculuğuma eşlik ettiğiniz için teşekkür ederim. Burada öğrenme sürecimi, projelerimi ve ilgi alanlarımı paylaşacağım.
 
 ## **Hakkımda**
 
--**Ad:** Büşra 
--**İlgi Alanları:** Yazılım Mühendisliği Java, Web Geliştirme,Açık Kaynak 
--**Eğitim:** Yiyecek ve İçecek hizmetleri Mezunu, Java Dilinde çalışıyorum.
--**Hedeflerim:** Yazılım Mühendisli olarak kendimi geliştirmek ve başarılı projeler. üretmek 
+- **Ad:** Büşra 
+- **İlgi Alanları:** Yazılım Mühendisliği, Java, Web Geliştirme, Açık Kaynak 
+- **Eğitim:** Yiyecek ve İçecek Hizmetleri Mezunu, Java Dilinde çalışıyorum.
+- **Hedeflerim:** Yazılım mühendisi olarak kendimi geliştirmek ve başarılı projeler üretmek.
 
 ## Blog Yazıları
 
-## **1.İlk Adımlarım**
+### **1. İlk Adımlarım**
 **Tarih:** 01 Temmuz 2024
 
-Yazılım mühendisliği serüvenime Java dili le başladım.İlk başta zor gelse de,her gün biraz daha ilerlediğimi hissediyorum. Java dilinin temellerini öğrendim ve küçük projelere başladım.
+Yazılım mühendisliği serüvenime Java dili ile başladım. İlk başta zor gelse de, her gün biraz daha ilerlediğimi hissediyorum. Java dilinin temellerini öğrendim ve küçük projelere başladım.
 
-## 2. GitHub ile Tanışma
+### **2. GitHub ile Tanışma**
 **Tarih:** 10 Temmuz 2024
 
-Bugün GitHub'da kişisel bir blog oluşturmayı öğrendim. GitHub, projelerimi saklamak ve paylaşmak için mükemmel bir platform. Ayrıca burada açıkkaynak projelere katkıda bulunmayı planlıyorum.
+Bugün GitHub'da kişisel bir blog oluşturmayı öğrendim. GitHub, projelerimi saklamak ve paylaşmak için mükemmel bir platform. Ayrıca burada açık kaynak projelere katkıda bulunmayı planlıyorum.
 
-## Yazılım Öğrenmeye Nasıl Başladım?
+### **Yazılım Öğrenmeye Nasıl Başladım?**
 
 Üniversite eğitimi almadan yazılım öğrenme yolculuğumda karşılaştığım zorluklar ve başardığım aşamaları bu yazıda paylaşacağım. Kitaplar, online kurslar ve projelerle nasıl ilerlediğimi öğrenebilirsiniz.
 
@@ -33,9 +33,10 @@ Bu projeyi çalıştırmak için aşağıdaki yazılım ve araçların yüklü o
 - **Maven**: Projenin bağımlılıklarını yönetmek için kullanılır. [Maven İndirme Linki](https://maven.apache.org/download.cgi)
 - **Git**: Kaynak kodunu kontrol etmek için kullanılır. [Git İndirme Linki](https://git-scm.com/downloads)
 
-Geliştirme Ortamı (IDE) olarak IntelliJ IDEA veya Eclipse kullanmanızı öneririz.
+Geliştirme ortamı (IDE) olarak IntelliJ IDEA veya Eclipse kullanmanızı öneririz.
 
 ### Kurulum
+
 1. **Java Development Kit (JDK) Kurulumu**:
    - Java JDK 11 veya daha yeni bir sürümü indirin ve yükleyin: [Java JDK İndirme Linki](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
@@ -49,11 +50,12 @@ Geliştirme Ortamı (IDE) olarak IntelliJ IDEA veya Eclipse kullanmanızı öner
 3. **Proje Deposu Klonlama**:
    - Git kullanarak projeyi yerel makinenize klonlayın:
      ```bash
-     git clone https://github.com/kullaniciadi/kişisel-blog.git
+     git clone https://github.com/kullaniciadi/kisisel-blog.git
+     ```
 
-Klonladığınız proje dizinine gidin:
+   - Klonladığınız proje dizinine gidin:
      ```bash
-     cd kişisel-blog
+     cd kisisel-blog
      ```
 
 4. **Bağımlılıkları Yükleme:** 
@@ -67,3 +69,4 @@ Klonladığınız proje dizinine gidin:
      ```bash
      mvn spring-boot:run
      ```
+     
