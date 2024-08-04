@@ -53,18 +53,18 @@ Geliştirme ortamı (IDE) olarak IntelliJ IDEA veya Eclipse kullanmanızı öner
      git clone https://github.com/kullaniciadi/kisisel-blog.git
      ```
 
-   - Klonladığınız proje dizinine gidin:
+4.Klonladığınız proje dizinine gidin:
      ```bash
      cd kisisel-blog
      ```
 
-4. **Bağımlılıkları Yükleme:** 
+5. **Bağımlılıkları Yükleme:** 
    - Maven kullanarak projenin tüm bağımlılıklarını yükleyin:
      ```bash
      mvn install
      ```
 
-5. **Projeyi Çalıştırma:**
+6. **Projeyi Çalıştırma:**
    - Maven kullanarak projeyi çalıştırın:
      ```bash
      mvn spring-boot:run
